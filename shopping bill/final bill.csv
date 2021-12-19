@@ -1,0 +1,15 @@
+ ,CASH RECEIPT, 
+ ,VIJAY SALES, 
+Sun Dec 19 22:44:13 2021, , 
+customer :,RAM, 
+###########################,##################,###########
+product,price,GST
+TV lenovo,55000,1100
+iPhone 11,75000,1600
+ laptop charger 24v ,1599,120
+boat roker 450,550,40
+mobile lenovo,15000,430
+###########################,##################,###########
+  , price  ,+   GST
+TOTAL ,=,150439
+ ,THANKS FOR VISIT, 
